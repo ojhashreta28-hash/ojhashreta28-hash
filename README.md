@@ -18,5 +18,5 @@
 <p align="center">
   <img src="https://github.com/ojhashreta28-hash/ojhashreta28-hash/blob/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
-![Uploading image.png…]()
+
 
